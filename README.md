@@ -1,5 +1,6 @@
 # training
 
+- Nadezda Mangano
 - Vika
 - Andrei Bakhtinov
 - Aleksandra Cheidze
