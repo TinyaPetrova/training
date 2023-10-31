@@ -1,5 +1,6 @@
 # training
 
+- nrnatalie
 - Dimitri Naumov
 - Natasha Selyunina
 - Gkalina Borisevits
