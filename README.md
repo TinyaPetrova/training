@@ -1,5 +1,6 @@
 # training
 
+- Vika
 - Andrei Bakhtinov
 - Aleksandra Cheidze
 - nrnatalie
