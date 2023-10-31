@@ -1,1 +1,3 @@
 # training
+
+-Egor Danilov
