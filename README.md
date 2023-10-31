@@ -1,3 +1,4 @@
 # training
 
--Egor Danilov
+- Egor Danilov
+- Andrei Bakhtinov
