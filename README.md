@@ -9,4 +9,4 @@
 - Natasha Selyunina
 - Gkalina Borisevits
 - Egor Danilov
-- Dmitrijs Loginovs
+- Vadim Šalamov
