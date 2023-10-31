@@ -1,1 +1,2 @@
 # training
+- Andrei Bakhtinov
