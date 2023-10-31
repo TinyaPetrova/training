@@ -1,5 +1,6 @@
 # training
 
+- Dimitri Naumov
 - Natasha Selyunina
 - Gkalina Borisevits
 - Egor Danilov
